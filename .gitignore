@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+/results*
+/sanity_check
+#/results_v1
+#/results_v2
+/data
+
+.idea
+__pycache__
